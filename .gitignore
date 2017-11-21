@@ -9,7 +9,9 @@ generated*
 *.o
 *.cgi
 
-
+all_sources.lst
+excluding.lst
+including.lst
 
 doxygen.tag
 /attic
